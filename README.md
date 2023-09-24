@@ -17,6 +17,7 @@ Table of Contents:
 
 
 Introduction:
+
 Power BI is a powerful data visualization tool, and this repository serves as a portfolio of my work in the field of data analysis and business intelligence. Each project represents a unique dataset and analysis scenario, highlighting my ability to transform data into actionable insights.
 
 
