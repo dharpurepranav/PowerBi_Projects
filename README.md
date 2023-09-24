@@ -1,9 +1,10 @@
-##Power BI Projects Repository
+Power BI Projects Repository
 
 Welcome to my Power BI Projects Repository! This repository showcases a collection of Power BI projects that I have completed. These projects demonstrate my skills in data analysis, visualization, and reporting using Power BI.
 
 
 Table of Contents:
+
 •Introduction
 •Project List
 •Getting Started
@@ -64,4 +65,4 @@ Contributing:
 I welcome contributions, suggestions, and feedback from the GitHub community. If you'd like to contribute to any of the projects or collaborate on new ones, please feel free to open an issue, submit a pull request, or contact me directly.
 
 
---------------------------------------------------------------------------------------------Thank You---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------Thank You----------------------------------------------------------------------------
